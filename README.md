@@ -1,8 +1,10 @@
+Warning: This gem is in active development and currently does absolutely nothing.
+
 # FlynnAutoScale
-Short description and motivation.
+A gem that allows your Rails apps to self-scale as they need more and more resources under Flynn. Comes with an automated mode that can be used for "day to day" web hosting operations and a manual mode where you can control when scaling operations take place (for scripts, background jobs and anything else)
 
 ## Usage
-How to use my plugin.
+Once I write the thing, I will fill this section in, I promise.
 
 ## Installation
 Add this line to your application's Gemfile:
@@ -16,13 +18,8 @@ And then execute:
 $ bundle
 ```
 
-Or install it yourself as:
-```bash
-$ gem install flynn_auto_scale
-```
-
 ## Contributing
-Contribution directions go here.
+It's an open source repo, fork the thing, make some changes, and I'll put you on the list of cool people making Flynn + Rails great again.
 
 ## License
-The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+The gem is available as open source under the CC0 terms.
